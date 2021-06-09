@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Sneha Narendran. I like to learn new things. 
 
 <!--
 **SnehaNarendran01071998/SnehaNarendran01071998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
